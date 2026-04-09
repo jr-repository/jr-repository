@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Richy Johannes 👋
 
-<!--
-**jr-repository/jr-repository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=jr-repository&label=Profile%20views&color=0e75b6&style=flat" alt="jr-repository" />
+</p>
 
-Here are some ideas to get you started:
+Experienced **Software Developer** specializing in building scalable ERP solutions, integrated supply chain systems, and responsive web applications. I focus on architecting complex WMS/TMS platforms and high-performance client applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+**Backend & Logic**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Database & Cloud**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jr-repository&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Richy's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-repository&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" height="180px" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+* **Antlia ERP (WMS & TMS):** End-to-end supply chain solution with multi-warehouse synchronization.
+* **Medical Calibration System:** Dynamic hospital equipment calibration compliant with ISO 17025.
+* **Omnichannel Integrator:** Seamless integration for Blibli, TikTok Shop, and Accurate Accounting.
+* **Fit Tracker App:** AI-ready fitness and nutrition monitoring mobile application.
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richy-johannes/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richyjohannes@gmail.com)
+[![Website](https://img.shields.io/badge/bytecorner.id-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bytecorner.id)
