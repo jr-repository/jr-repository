@@ -1,5 +1,5 @@
 # Hi there, I'm Richy Johannes 👋
-
+<img src="1767886050401.jpg" width="100%">
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=jr-repository&label=Profile%20views&color=0e75b6&style=flat" alt="jr-repository" />
 </p>
