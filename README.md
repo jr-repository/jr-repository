@@ -27,8 +27,6 @@ Experienced **Software Developer** specializing in building scalable ERP solutio
 
 ---
 
----
-
 ### 🛠 Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,12 +41,14 @@ Experienced **Software Developer** specializing in building scalable ERP solutio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jr-repository&theme=dracula&hide_border=true&area=true" width="100%" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jr-repository&show_icons=true&theme=dracula&hide_border=true" height="150px" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jr-repository&layout=compact&theme=dracula&hide_border=true" height="150px" />
 </p>
 
-
+---
 
 ### 🚀 Featured Projects
 * **Antlia ERP (WMS & TMS):** End-to-end supply chain solution with multi-warehouse synchronization.
