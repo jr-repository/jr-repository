@@ -27,10 +27,22 @@ Experienced **Software Developer** specializing in building scalable ERP solutio
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jr-repository&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Richy's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-repository&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" height="180px" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jr-repository&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophy" />
+  </a>
+</p>
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jr-repository&show_icons=true&theme=tokyonight&hide_border=true" alt="Richy's Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-repository&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150px" />
+</p>
+
+### 📈 Weekly Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jr-repository&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
