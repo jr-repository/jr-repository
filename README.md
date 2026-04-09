@@ -30,7 +30,7 @@ Experienced **Software Developer** specializing in building scalable ERP solutio
 ### 🛠 Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,ci,laravel,js,react,nodejs,mysql,mongodb,git,tailwind,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,go,laravel,js,react,nodejs,mysql,mongodb,git,tailwind,html,css&theme=dark" />
   </a>
 </p>
 
