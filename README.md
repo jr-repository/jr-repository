@@ -52,10 +52,10 @@ Experienced **Software Developer** specializing in building scalable ERP solutio
 ---
 
 ### 🚀 Featured Projects
-* **Antlia ERP (WMS & TMS):** End-to-end supply chain solution with multi-warehouse synchronization.
-* **Medical Calibration System:** Dynamic hospital equipment calibration compliant with ISO 17025.
-* **Omnichannel Integrator:** Seamless integration for Blibli, TikTok Shop, and Accurate Accounting.
-* **Fit Tracker App:** AI-ready fitness and nutrition monitoring mobile application.
+* **ERP :** End-to-end supply chain solution with multi-warehouse synchronization.
+* **Medical Calibration System :** Dynamic hospital equipment calibration compliant with ISO 17025.
+* **Omnichannel Integrator :** Seamless integration for Blibli, TikTok Shop, and Accurate Accounting.
+* **Fit Tracker App :** AI-ready fitness and nutrition monitoring mobile application.
 
 ---
 
